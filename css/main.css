@@ -10,7 +10,7 @@ body {
 }
 
 header {
-  background: #333;
+  background-color: #333;
   text-align: center;
   padding: 5px;
   margin: 0px 0px 50px 0px;
@@ -18,13 +18,13 @@ header {
 
 header h1 {
   color: white;
-  margin: 25px;
+  padding: 25px;
 }
 
 header nav ul li {
   list-style-type: none;
   display: inline;
-  margin: 5%;
+  padding: 5%;
 }
 
 header nav ul li a {
@@ -34,7 +34,7 @@ header nav ul li a {
 
 .newsbanner {
   text-align: center;
-  background: #666;
+  background-color: #666;
 }
 
 .newsbanner img {
